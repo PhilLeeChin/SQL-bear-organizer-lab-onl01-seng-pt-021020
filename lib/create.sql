@@ -1,4 +1,4 @@
 CREATE TABLE bears
-(name TEXT
+(name TEXT,
 age INTEGER
 );
